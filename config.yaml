@@ -1,12 +1,11 @@
 categories: ["cs.CV", "cs.LG", "cs.AI"]
 keywords:
-  - "open vocabulary"
-  - "open-vocabulary"
-  - "open vocabulary segmentation"
-  - "open-vocabulary segmentation"
-  - "vision language model"
-  - "training-free"
-  - "training free"
+  - "self-evolving"
+  - "agent deception"
+  - "vision language model safety"
+  - "large language model safety"
+  - "large language model jailbreak"
+  - "vision language model jailbreak"
 
 # exclude_keywords: # 选择排除的关键词
 #   - "Large Language Model"
